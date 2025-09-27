@@ -10,6 +10,7 @@ import lombok.Setter;
 @Setter
 @Getter
 @Builder
+//male student
 public class MaleStudent {
 
     @Id
