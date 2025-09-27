@@ -13,6 +13,7 @@ import lombok.Setter;
 @Setter
 @Getter
 @Builder
+//female student
 public class FemaleStudent
 {
     @Id
