@@ -9,6 +9,7 @@ import lombok.Setter;
 @Builder
 @Setter
 @Getter
+//DTO
 public class StudentDto {
 
         private String fName;
